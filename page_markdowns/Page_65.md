@@ -1,0 +1,11 @@
+## 2.7.8 Summary
+
+In this section we have presented a number of 3D applications which incorporate a variety of interaction techniques into single fluid interfaces. In each case, the tasks which the interfaces were designed for were appropriately matched with the system setup. For example, the interactive 3D workbenches discussed in Section 2.7.5 allowed for the exploration and manipulation of 3D medical data with both hands. Similarly, the neurosurgical application discussed in Section 2.7.6 allowed for bimanual interaction. Not only is the task of these applications appropriate, since these are cases in which it is important for users to understand the 3D structure of the data which they are working with, but the method of interaction was appropriate, as users of these systems, particularly doctors, would be used to working with both hands.
+
+In the development of applications for volumetric displays, we will similarly seek out tasks which are particularly appropriate for the affordances of the display, and it will be important to create interaction techniques which will be appropriate for the intended users.
+
+One such important affordance of volumetric displays is its 360° viewing angle, allowing multiple users to work with the system simultaneously. In the next section, we will discuss applications which have been designed for synchronous collaboration about a shared physical space, which will aid in the design of collaborative applications for volumetric displays.
+
+## 2.8 Collaborative User Interfaces
+
+One of the unique properties of the volumetric display is its 360° viewing angle. Not only does this allow a single user to view data from various locations, it also allows multiple users to view data from multiple locations, at the same time. This property could make volumetric displays particular promising for multi-user applications. The display itself, along with the data inside, would be a shared physical area which collaboration would be focused on. Early work on collaboration by a group on a shared display was performed by Nunamaker et al., with their development of decision systems to support group work [Nunamaker et al. 1991]. The specific scenario where collocated users interact with a

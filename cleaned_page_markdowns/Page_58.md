@@ -1,0 +1,7 @@
+## Figure 2-15 
+(a) Ring menus seen in JDCAD system. Menu can be rotated until the item of interest is at the front. (b) The TULIP menu binds different menu options to each individual finger.
+
+Bowman and Wingrave describe and compare three different menu techniques for virtual environments. A floating menu was developed, in which the location of the menu is bound to the location of the user’s head. The menu acts like a standard drop-down menu, which can be navigated through using occlusion selection. The pen and tablet menu system places menus and widgets on the surface of a virtual tablet that corresponds to a physical surface that the user holds. A physical pen is held and controls a virtual stylus, which is used to interact with the tablet. TULIP menus require multiple-finger tracking and bind different menu options to each finger. Users could select the options by pinching the thumb with the appropriate finger (Figure 2-15b). Of these three techniques, the pen and tablet menu was fastest, although users had a preference for the TULIP menu. Users also reported higher discomfort levels with the pen and tablet technique.
+
+## Figure 2-16 
+Volumetric display prototypes. (a) Selection using a laser pointer input device. (b) Cuboid-shaped display allows the user to extract side profile views.

@@ -1,0 +1,9 @@
+Dolls technique allowed users to position and orient objects more precisely than the HOMER technique [Pierce and Pausch 2002].
+
+![Image](image_url)
+
+*Figure 2-13. Voodoo dolls. The dominant hand manipulates a pin relative to the position of the toy soldier held by the non-dominant hand using hand-held miniature copies. Image taken from [Pierce et al. 1999b].*
+
+## 2.6.3.3 Three-Dimensional Widgets
+
+Conner et al. explored manipulations of objects which diverged from the stranded direct manipulation techniques described above, using three-dimensional widgets [Conner et al. 1992]. Using the widgets allow for manipulations which are difficult or impossible to accomplish using a direct mapping from the physical hand, and also allow for constrained manipulations, such as rotating an object about a single axis (Figure 2-14). They describe several widgets which allow for different types of manipulations. For example a virtual sphere can be used to rotate an object. The mouse clicks and drags on the sphere, and the 2D mouse coordinates are mapped to points on the surface of the sphere, causing the object to rotate. Object handles are 3D widgets that constrain the manipulations. For example, handles can be available to scale, rotate, or translate an object along any of the major axes. Many current applications (e.g. MAYA™, 3D StudioMax™) for 3D modeling and animation make extensive use of such 3D widgets since they can be easily operated with status-quo mouse & keyboards input.

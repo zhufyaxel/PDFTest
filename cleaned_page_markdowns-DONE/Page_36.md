@@ -1,0 +1,3 @@
+Another implementation was presented in 1963, where a phosphor-coated screen rotated in a vacuum, with a controlled electron beam striking its surface. The 3D images were presented by having the electron beam project on the screen as it passes through the desired location of space [Ketchepel 1963].
+
+The rotating screens can also be actively emissive, instead of having imagery projected onto them. Berlin proposed using a 2D matrix of light emitting diodes (LEDs) with the light electronics rotating to sweep out a 3D volume [Budinger 1984]. In this implementation, the display resolution is a function of the number and density of LEDs, the speed of rotation, and the rate at which LEDs can be pulsed.

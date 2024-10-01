@@ -1,0 +1,9 @@
+## 2.5.4 Bimanual Input
+
+Researchers have also looked at using two devices, one in each hand, to increase the number of degrees of freedom available for 3D tasks. Zeleznik et al. explore a range of techniques for performing 3D operations in desktop applications, using two hands to control two independent cursors. Hinckley et al. embedded a head viewing prop and a cutting plane tool with six degree-of-freedom trackers, for use within a neurosurgical application. The cutting plane tool could act on the head viewing prop, allowing for bimanual input. The 3-Draw system also used two props for designing 3D curves. A tablet and pen, used bimanually, were both tracked in 3D space. Balakrishnan and Kurtenbach performed two experiments to evaluate bimanual input for interacting with 3D scenes. They found that bimanual techniques were 20% faster for 3D selection, and strongly preferable in a free from 3D painting task.
+
+## 2.5.5 High Degree-of-Freedom Input
+
+By providing two devices, one for each hand, bimanual input techniques essentially multiply the number of degrees of freedom by two, allowing users to have more control of object parameters in 3D environments. Researchers have also looked at other methods for providing high degree-of-freedom input for 3D tasks which we now describe.
+
+Krueger’s VIDEOPLACE was a deliberately informal and playful arena for the exploration of human interfaces with large displays. The user was in a darkened room with a real-time image of their silhouette displayed on a large video projection screen. Their entire body could be considered the input device, as the system responded to the user’s image and motion with interactive graphics, video effects, and sound. While the interactions were with 2D data imagery on the large display, such fully body, or hand and multi-finger tracking could also be applied to 3D interactions.

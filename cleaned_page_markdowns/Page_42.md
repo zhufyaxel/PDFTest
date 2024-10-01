@@ -1,0 +1,9 @@
+## Quantitative Evaluation of Volumetric Displays
+
+To date, only a few studies have been reported, and none provide conclusive evidence as to how volumetric displays compare to other existing 3D display technologies for depth perception tasks.
+
+Rosen et al. found that users could identify deformations in three-dimensional objects with more accuracy on a volumetric display than on a 2D display. However, given that the 2D display used did not provide any stereo or motion cues, this study does not provide much insight as to how the volumetric display compares to the other, more relevant, 3D displays that are available today.
+
+A study of air traffic control tasks found that a volumetric display was not superior to other displays except in a collision avoidance task. Unfortunately, the study provides insufficient detail of the procedure used or insight into the cause of the results. For example, the users’ viewing height relative to the display – a factor that could have a major impact on the results – is not reported for any of the viewing modes. This could be one reason why the study somewhat surprisingly found that in a height judgment task a 2D side view resulted in the worst accuracy of all the displays studied, when one might expect such a view to give the best performance for such tasks. This study also indicates that stereo displays are not beneficial over 2D displays, which is surprising given the previous work that demonstrates the benefit of stereo displays.
+
+In another evaluation of volumetric displays, participants navigated a simple maze using a joystick. However, the comparison was to a 2D perspective display, and there was no clear advantage in overall performance times. Further, the maze and

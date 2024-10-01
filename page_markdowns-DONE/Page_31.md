@@ -1,0 +1,7 @@
+can be perceived monocularly, coupled to a single eye position, or binocularly, if combined with one of the stereoscopic technologies discussed above. Because the scene is still projected on a 2D display, fish tank displays are considered to be semi-immersive. Generally the viewing volume of these displays is roughly equivalent to the inside of the monitor, so viewing them is similar to looking into a fish tank. The head coupled viewpoint with fish tank displays provides motion parallax cues, without requiring users to explicitly manipulate the camera position.
+
+## 2.2.4 Head-Mounted Displays
+
+More immersive forms of displays, typically associated with the field of virtual reality, which provide stereopsis and motion parallax through head coupled viewpoints, have also been developed. A common form is a head mounted display, which use some sort of helmet or goggles to provide a stereo pair of displays directly in front of each eye [Buxton and Fitzmaurice 1998, Neale 1998, Sutherland 1968] (Figure 2-2). Such displays provide the widest possible field of view at high quality. Head mounted displays can provide the user with a realistic 3D experience, but a significant problem is that the user’s eyes are covered by the display. The result is a lost context of the user’s physical surrounding and possible collaborators [Arthur et al. 1993, Buxton and Fitzmaurice 1998].
+
+![Figure 2-2. A head mounted display creates an immersive virtual reality by covering the user’s eyes. Image taken from Buxton and Fitzmaurice [1998].](image-url)

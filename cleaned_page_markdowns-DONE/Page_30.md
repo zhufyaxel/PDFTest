@@ -1,0 +1,5 @@
+There are a number of display technologies which can provide stereopsis on a flat screen. Common examples of stereoscopic displays are polarized glasses which passively block certain light from each eye and liquid-crystal time-multiplexed shuttering glasses which actively block light from each eye. Autostereoscopic displays are another class of stereoscopic displays, which are glasses free systems that project multiple images for each eye in specific locations in space.
+
+### Semi Immersive Fish Tank Displays
+
+The display technologies discussed so far are generally considered to be non-immersive, as there is a clear distinction between the physical and virtual environments. Fish tank displays increase the level of immersion by coupling the viewpoint of the virtual scene, with the physical location of the user’s head, so that the appropriate perspective is always presented. Generally the user’s head position is tracked, and the location of the user’s eyes is estimated by offsetting them by a constant distance from the user’s head. The viewpoint of the virtual scene is then updated appropriately.

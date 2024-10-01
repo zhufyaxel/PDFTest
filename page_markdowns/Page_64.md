@@ -1,0 +1,7 @@
+## 2.7.7 Browsing Volumetric Data with Deformations
+
+McGuffin et al. build upon Hinckley's work by supporting more complex browsing operations of volumetric data [McGuffin et al. 2003]. Instead of just "looking inside" volumetric data, such as seeing a specific cutting plane, users could perform various deformation operations to browse the data. Numerous deformation strategies were explored, such as peeling, slicing, and spreading parts of the volume. These operations could be performed on specific layers, allowing users to see particular areas of interest, while maintaining the context of the surrounding areas. The interaction techniques were controlled directly with pop-up menus and 3D widgets customized for each deformation technique.
+
+![Deformations are used to browse volumetric data. Customized 3D widgets directly control the deformation technique. Image taken from McGuffin et al. (2003)](path/to/figure.jpg)
+
+*Figure 2-20. Deformations are used to browse volumetric data. Customized 3D widgets directly control the deformation technique. Image taken form McGuffin et al. [2003].*

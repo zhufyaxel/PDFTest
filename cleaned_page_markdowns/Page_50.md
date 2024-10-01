@@ -1,0 +1,11 @@
+## 2.6.2 Selection
+
+Selection is a fundamental aspect of any interactive 3D system, as a user must be able to specify an object in the virtual world, so they can then manipulate or interact with it. Techniques for selection have been thoroughly developed within the VR literature. These techniques will be of high relevance to the design of interactive applications for volumetric displays. We now give a review of selection techniques used in 3D environments.
+
+### 2.6.2.1 Image Plane Selection
+
+When 3D environments are displayed on desktop screens, the monitor defines a 2D image plane, which displays the 3D scene. The application projects the objects in the 3D environment onto the image plane for display to the user. The user can select objects in the 3D scene using the image plane by positioning the mouse cursor over the object’s projection on the image plane. In essence the cursor defines a ray perpendicular to the surface of the image plane, and clicking selects the first object which the ray intersects. This technique does not directly extend to 3D displays, as there is not always a well-defined image plane. Ware and Lowther extend the technique for a stereoscopic display by defining the image plane as the viewpoint from only a single eye. This “one-eyed cursor” was found to be an effective selection technique for 3D environments.
+
+### 2.6.2.2 Ray Cursor
+
+For selection within immersive 3D environments, a ray firing selection mechanism called “laser gun” selection was implemented. A ray is emitted from the user’s hand, so the user has control over the start point and orientation of the ray, much like a physical laser pointer. The first object it intersected with would be selected. This technique allowed users to select both near and distant objects; however, it was found to be difficult to select small and distant objects due to the angular accuracy required for such targets. To alleviate this problem, a mechanism called “spotlight selection” was created. Instead of emitting a ray, the user emits a cone with its apex.

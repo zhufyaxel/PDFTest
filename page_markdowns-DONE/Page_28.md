@@ -1,0 +1,12 @@
+## 2. Background Literature
+
+*“Ability is the art of getting credit for all the home runs somebody else hits.”*  
+*-Casey Stengel*
+
+---
+
+### 2.1 Introduction
+
+In Section 1.2, we discussed the new affordances presented by volumetric displays. These affordances raise new human factors issues and interaction challenges. Once these new topics are better understood, applications, and the user interfaces and interaction techniques which they are made up of, can be appropriately designed. In this chapter, we review the previous research which will help guide our investigation into making volumetric displays an interactive platform.
+
+The chapter will be structured as follows. In Section 2.2 we present an overview of existing 3D display technologies, followed by a description of existing volumetric display technology in Section 2.3. Section 2.4 looks at methods for evaluating the viewing experience in these various 3D displays, which can be extended to the study of volumetric displays. In Section 2.5, we provide an overview of the input devices used for interacting with 3D environments. In Section 2.6, we look at some of the basic interaction techniques existing in the virtual reality and 3D interaction communities, which will provide insights into the development of interaction techniques for volumetric displays. In Section 2.7, we look at work which integrates these interaction techniques into 3D applications. Section 2.8 focuses on collaborative applications, which will aid in the development of interaction techniques for volumetric displays, under a multiple user
